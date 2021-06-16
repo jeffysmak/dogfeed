@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448328088842",
+    "project_id": "dogfeed-cb22e",
+    "storage_bucket": "dogfeed-cb22e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448328088842:android:fde9f00cc76441e155cef3",
+        "android_client_info": {
+          "package_name": "com.dogfeeding.dogfeeding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448328088842-5m67j8e2ehapmm57jrjfdava000q0f99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpSDQPFK3YQnOuZsG9DVBKhrv4UCMlJq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448328088842-5m67j8e2ehapmm57jrjfdava000q0f99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
